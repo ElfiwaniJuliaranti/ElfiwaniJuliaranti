@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Elfiwani Juliaranti</h1>
-<h3 align="center">A passionate Quality Assurance</h3>
+<h3 align="center">A passionate Software Quality Assurance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfiwanijuliaranti&label=Profile%20views&color=0e75b6&style=flat" alt="elfiwanijuliaranti" /> </p>
 
